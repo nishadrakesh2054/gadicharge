@@ -540,6 +540,13 @@ html {
   outline: none;
 }
 
+.banner-head {
+    color: white; /* White text color */
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.8), 
+                 0px 0px 8px rgba(0, 0, 0, 0.6); /* Stronger and softer shadows */
+}
+
+
 /* About */
 
 .about-con {
